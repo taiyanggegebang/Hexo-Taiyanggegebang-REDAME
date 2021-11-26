@@ -77,8 +77,8 @@ msocial:
 
 donate:
   paypal: 
-  alipay: 
-  wechat: 
+  alipay: img/custom/wechat2.jpg
+  wechat: img/custom/wechat.jpg
   wechatSQ: 
 
 # 视频地址为https://cdn.jsdelivr.net/gh/honjun/hojun@1.2/Unbroken.mp4，配置如下
