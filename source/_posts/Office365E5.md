@@ -29,7 +29,7 @@ photos: https://cdn.jsdelivr.net/gh/taiyanggegebang/cdn@main/boke/Office365E5/of
 
 ## 第一步 [账号注册]
 
-注意：如果嫌麻烦可以翻看该页面最下面的[找人分配],可以免去一下的操作直接获取激活过的账号
+注意：如果嫌麻烦可以翻看该页面最下面的[找人分配],可以免去以下的操作直接获取激活过的账号
 ps：用着没自己整的香！
 
 1. 来到 Microsoft 365 开发人员中心 官网
